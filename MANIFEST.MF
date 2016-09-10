@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/beautyeye_lnf.jar
+Main-Class: com.server.start.LaunchServer
+
